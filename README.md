@@ -15,3 +15,10 @@ Tools & Techniques Used
 
 - Data Handling: Pandas, NumPy
 - Visualization: Matplotlib, Seaborn
+
+Visualizations
+
+![image](https://github.com/user-attachments/assets/50350750-e7d1-4655-ab0e-b0ac640f563f)
+![image](https://github.com/user-attachments/assets/c62d1f48-e410-4c76-84d8-a85d10b8813c)
+
+
